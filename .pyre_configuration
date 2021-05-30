@@ -1,0 +1,6 @@
+{
+  "source_directories": [
+    "./wong"
+  ],
+  "taint_models_path": "/Users/thanapat/Documents/Explore/wong-starter/venv/lib"
+}
